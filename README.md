@@ -1,24 +1,39 @@
 # 3D-BODY-MEASUREMENT-SYSTEM
 
-This is an End to End Deep Learning Project which Aims To Generate Accurate Human Body Measurements
+
+# Problem Statement
+This is an End to End Deep Learning Project which Aims To Generate Accurate Human Body Measurements without any physical effort
+
+# Source:
+we collected the real world 3d scans and their respective measurements of male and female from the below source:
+
+https://zenodo.org/record/3735905#.ZC5zEHZBzIU
+
+Note: The Above Dataset is only used for Scientific Purpose not fot Bussiness Purposes
 
 # Requirements:
 
-Flask==1.1.1
-gunicorn==19.9.0
-itsdangerous==1.1.0
-Jinja2==2.10.1
-MarkupSafe==1.1.1
-Werkzeug==0.15.5
-numpy>=1.9.2
-scipy>=0.15.1
-scikit-learn>=0.18
-matplotlib>=1.4.3
-pandas>=0.19
-tensorflow==2.12.0
-keras==2.12.0
-trimesh>=3.21.0
 python>3.7
+
+Flask==1.1.1
+
+numpy>=1.9.2
+
+scipy>=0.15.1
+
+scikit-learn>=0.18
+
+matplotlib>=1.4.3
+
+pandas>=0.19
+
+tensorflow==2.12.0
+
+keras==2.12.0
+
+trimesh>=3.21.0
+
+
 
 # Installation 
 
